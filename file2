@@ -1,4 +1,9 @@
+
 print("i am not looking for java script")
 print("i am not looking for c progamming")
+<<<<<<< HEAD
 scanf sum=1+2
+=======
+sum=1+2
+>>>>>>> 8d3cc7123f660d6ecd29b4539e4cc6a59ccd1729
 

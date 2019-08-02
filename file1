@@ -3,3 +3,4 @@ print("its is a c programming language")
 print("looking for java programmer")
 print("looking for c programmer")
 scanf("iam new to world")
+sum=1+2

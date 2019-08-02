@@ -5,5 +5,9 @@ print("looking for c programmer")
 scanf("iam new to world")
 sum=1+2
 div=1/2
+<<<<<<< HEAD
 i am a devops engineer
 iam learning java script
+=======
+i am learning java script
+>>>>>>> d950d0ea43f172d54542bb0ee20a7ea6b9786182

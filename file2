@@ -5,5 +5,9 @@ print("i am not looking for c progamming")
 scanf sum=1+2
 =======
 sum=1+2
+<<<<<<< HEAD
+sub=1-2
+=======
 >>>>>>> 8d3cc7123f660d6ecd29b4539e4cc6a59ccd1729
-
+sum=sub-div
+>>>>>>> cf67e478c3450d75eaca1dc30f9288e5668e1e8e
